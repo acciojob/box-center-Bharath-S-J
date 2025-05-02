@@ -11,8 +11,8 @@ div{
 	width:200px;
 	text-align:center;
 	/*  */
-	/* align-content:center; */
-	line-height:200px;
+	align-content:center;
+	/* line-height:200px; */
 	background-color:lightblue;
 	color:purple;
 	border:2px solid black;
